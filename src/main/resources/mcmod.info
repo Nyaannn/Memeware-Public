@@ -1,0 +1,20 @@
+[
+  {
+    "modid": "memeware",
+    "name": "Memeware",
+    "description": "",
+    "version": "1.0.0",
+    "credits": "Made by Femboy_Goose",
+    "logoFile": "",
+    "mcversion": "1.12.2",
+    "url": "https://mcreator.net",
+    "updateUrl": "",
+    "authorList": [
+      "Femboy_Goose"
+    ],
+    "dependencies": [],
+    "dependants": [],
+    "requiredMods": [],
+    "useDependencyInformation": "true"
+  }
+]

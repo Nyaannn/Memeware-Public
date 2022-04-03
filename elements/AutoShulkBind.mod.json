@@ -1,0 +1,12 @@
+{
+  "_fv": 18,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "0",
+    "keyBindingName": "Auto Shulker",
+    "keyBindingCategoryKey": "misc",
+    "onKeyPressed": {
+      "name": "AutoShulkBindOnKeyPressed"
+    }
+  }
+}

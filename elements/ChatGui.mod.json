@@ -1,0 +1,123 @@
+{
+  "_fv": 18,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 0,
+    "height": 0,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "button",
+        "data": {
+          "text": "<",
+          "onClick": {
+            "name": "OpenMainGui"
+          },
+          "width": 30,
+          "height": 20,
+          "name": "<",
+          "x": 396,
+          "y": 1
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Memeware on top!",
+          "onClick": {
+            "name": "SayThisHackOnTop"
+          },
+          "width": 105,
+          "height": 20,
+          "name": "Memeware on top!",
+          "x": 1,
+          "y": 1
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Ezed by memeware",
+          "onClick": {
+            "name": "SayEz"
+          },
+          "width": 105,
+          "height": 20,
+          "name": "Ezed by memeware",
+          "x": 1,
+          "y": 21
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "c u m",
+          "onClick": {
+            "name": "Saycum"
+          },
+          "width": 50,
+          "height": 20,
+          "name": "c u m",
+          "x": 1,
+          "y": 39
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Nigger",
+          "onClick": {
+            "name": "Saynigger"
+          },
+          "width": 55,
+          "height": 20,
+          "name": "Nigger",
+          "x": 51,
+          "y": 39
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Popbob Sex Dupe",
+          "onClick": {
+            "name": "Popbobsexdupe"
+          },
+          "width": 100,
+          "height": 20,
+          "name": "Popbob Sex Dupe",
+          "x": 1,
+          "y": 59
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Harass mspopbob",
+          "onClick": {
+            "name": "Harassms"
+          },
+          "width": 100,
+          "height": 20,
+          "name": "Harass mspopbob",
+          "x": 1,
+          "y": 79
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "niggerbg2.png",
+          "use1Xscale": false,
+          "name": "niggerbg2.png",
+          "x": 0,
+          "y": 0
+        }
+      }
+    ]
+  }
+}
